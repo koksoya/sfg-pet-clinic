@@ -4,8 +4,6 @@ import guru.springframework.sfgpetclinic.model.BaseEntity;
 
 import java.util.*;
 
-import static java.util.Collections.max;
-
 /**
  * Created by jt on 7/21/18.
  */
